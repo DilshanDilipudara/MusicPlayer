@@ -7,7 +7,7 @@
                   
                   implementation 'com.mikhaellopez:circularimageview:3.0.2'
                   
- *fontend color
+ * fontend color
                 
                 https://material.io/tools/color/#!/?view.left=0&view.right=1&primary.color=0d4266
                 primary #065a66
